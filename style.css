@@ -1,0 +1,30 @@
+header {
+  background-color: ivory;
+  
+}
+.fs-4 {
+  color: black;
+}
+
+li > .nav-link {
+  color: black;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: lightcoral;
+}
+.btn-primary {
+    color: #fff;
+    background-color: lightcoral;
+    border-color: ivory;
+}
+.text-bg-primary {
+  color: #fff;
+  background-color: lightcoral;
+  height: 30px;
+  width: 30px;
+}
+a {
+    color:lightcoral;
+    text-decoration: underline;
+}
